@@ -11,4 +11,4 @@ _* MySQL 8.0.5_
 _* JPA_
 
 _developed by: `Rodolfo Quezada`_
- _`rodolfo.quezada.s@gmail.com`_
+ _contact: `rodolfo.quezada.s@gmail.com`_
