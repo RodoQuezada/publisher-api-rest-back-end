@@ -4,11 +4,12 @@
 ## **API REST - Back End**
 
  **Tech**
-_* Java 1.8_
-_* Spring Framework_
-_* Lombok_ 
-_* MySQL 8.0.5_
-_* JPA_
+_- Java 1.8_
+_- Spring Framework_
+_- Lombok_ 
+_- MySQL 8.0.5_
+_- JPA_
+_- Mapstruct_
 
 _developed by: `Rodolfo Quezada`_
  _contact: `rodolfo.quezada.s@gmail.com`_
